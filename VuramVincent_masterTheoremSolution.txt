@@ -1,0 +1,5 @@
+a.	Θ (n^log 3base2) (Case1)
+b.	NA
+c.	NA
+d.	Θ(n log n) (Case 2)
+e.	Θ(n 2 ) (Case 3)
